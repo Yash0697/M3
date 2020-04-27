@@ -1,0 +1,6 @@
+[submodule "JPA_Assignments"]
+	path = JPA_Assignments
+	url = https://github.com/Yash0697/JPA.git
+[submodule "Spring-Basic-Assignments"]
+	path = Spring-Basic-Assignments
+	url = https://github.com/Yash0697/Spring-Basic.git
